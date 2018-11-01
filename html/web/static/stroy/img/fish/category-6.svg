@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 47.25 47.25">
+	<defs>
+		<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:url(#linear-gradient);}</style>
+		<clipPath id="clip-path" transform="translate(0)">
+			<rect class="cls-1" width="47.25" height="47.25"/>
+		</clipPath>
+		<linearGradient id="linear-gradient" x1="0" y1="0" x2="100%" y2="100%">
+		    <stop offset="0%" stop-color="#FFC950"/>
+		    <stop offset="100%" stop-color="#FF8007"/>
+		</linearGradient>
+	</defs>
+	<g id="Слой_2" data-name="Слой 2">
+		<g id="Слой_1-2" data-name="Слой 1">
+			<g class="cls-2">
+				<path class="cls-3" d="M26,39.42a1.13,1.13,0,0,0,1.59,0L39.42,27.57A1.13,1.13,0,0,0,37.83,26L26,37.83a1.13,1.13,0,0,0,0,1.59" transform="translate(0)"/>
+				<path class="cls-3" d="M25.13,32a1.12,1.12,0,0,0,1.59,0L32,26.72a1.13,1.13,0,0,0-1.59-1.59l-5.31,5.31a1.13,1.13,0,0,0,0,1.59" transform="translate(0)"/>
+				<path class="cls-3" d="M38.68,33.37l-5.31,5.31A1.13,1.13,0,1,0,35,40.27L40.27,35a1.13,1.13,0,0,0-1.59-1.59" transform="translate(0)"/>
+				<path class="cls-3" d="M46.13,0h-45A1.12,1.12,0,0,0,0,1.13v45a1.12,1.12,0,0,0,1.12,1.13h45a1.12,1.12,0,0,0,1.13-1.12v-45A1.13,1.13,0,0,0,46.13,0M18.79,22.5H13.5v-9H33.75v4.64H25.53a7.4,7.4,0,0,0-6.74,4.36M45,18.14H36V13.5h9ZM24.75,2.25H45v9H24.75Zm-22.5,0H22.5v9H2.25Zm0,11.25h9v9h-9Zm0,11.25H18.18a7.19,7.19,0,0,0,0,.78v8.22H2.25Zm9,20.25h-9V36h9Zm2.25-9h4.64v9H13.5ZM45,45H20.39V25.53a5.15,5.15,0,0,1,5.14-5.14H45Z" transform="translate(0)"/>
+			</g>
+		</g>
+	</g>
+</svg>

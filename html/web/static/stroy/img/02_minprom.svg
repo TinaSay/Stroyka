@@ -1,0 +1,15 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" width="34" height="29.62" viewBox="0 0 34 29.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a1a1a1;
+      }
+    </style>
+  </defs>
+  <title>02_minprom</title>
+  <g>
+    <path class="cls-1" d="M38.13,32.81H23c-.42,0-.83.5-1.22.73a3.37,3.37,0,0,0-1.08,1l-3,5.3H42Z" transform="translate(-8 -10.19)"/>
+    <path class="cls-1" d="M29.66,30.83c.46.26.95,0,1.44,0h6.07L25,10.19l-3.88,7,7.4,12.72A3.38,3.38,0,0,0,29.66,30.83Z" transform="translate(-8 -10.19)"/>
+    <path class="cls-1" d="M23.52,25.76a3.49,3.49,0,0,0-.33-1.48l-3-5.39L8,39.81h7.77l7.35-12.59A2.81,2.81,0,0,0,23.52,25.76Z" transform="translate(-8 -10.19)"/>
+  </g>
+</svg>

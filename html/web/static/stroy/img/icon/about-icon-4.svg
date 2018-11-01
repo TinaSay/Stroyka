@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.02 36.02">
+    <linearGradient id="linear-gradient">
+        <stop offset="0%" stop-color="#F6C46A"/>
+        <stop offset="50%" stop-color="#FF9C23"/>
+        <stop offset="100%" stop-color="#FF8209"/>
+    </linearGradient>
+    <defs>
+        <style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+        <clipPath id="clip-path" transform="translate(0 0)">
+            <rect class="cls-1" width="36.02" height="36.02"/>
+        </clipPath>
+    </defs>
+    <g id="Слой_2" data-name="Слой 2">
+        <g id="Слой_1-2" data-name="Слой 1">
+            <g class="cls-2" fill="url(#linear-gradient)">
+                <path class="cls-3"
+                      d="M20.78,23.33H15.23a5.94,5.94,0,0,0-6,5.92V35a1,1,0,0,0,1,1H25.73a1,1,0,0,0,1-1V29.25a5.94,5.94,0,0,0-6-5.92m4,10.69H23.35V28.07a1,1,0,0,0-2,0V34H14.67V28.07a1,1,0,0,0-2,0V34H11.28V29.25a3.94,3.94,0,0,1,4-3.92h5.55a3.94,3.94,0,0,1,4,3.92Z"
+                      transform="translate(0 0)"/>
+                <path class="cls-3" d="M24,15.91v-2.1a1,1,0,0,0-2,0v2.1a1,1,0,0,0,2,0" transform="translate(0 0)"/>
+                <path class="cls-3" d="M14.06,15.91v-2.1a1,1,0,0,0-2,0v2.1a1,1,0,0,0,2,0" transform="translate(0 0)"/>
+                <path class="cls-3" d="M27.29,8a4,4,0,1,0-4-4,4,4,0,0,0,4,4m0-6a2,2,0,1,1-2,2,2,2,0,0,1,2-2"
+                      transform="translate(0 0)"/>
+                <path class="cls-3"
+                      d="M30.06,9.08H24.52a6,6,0,0,0-5.91,5.23,3,3,0,0,0-1.2,0A6,6,0,0,0,11.5,9.08H6A5.94,5.94,0,0,0,0,15v5.77a1,1,0,0,0,1,1h9.49a1,1,0,1,0,0-2H5.39V13.82a1,1,0,0,0-2,0v5.95H2V15a3.94,3.94,0,0,1,4-3.92H11.5a3.94,3.94,0,0,1,4,3.92,1,1,0,0,0,0,.17A4,4,0,0,0,14,18.23a4,4,0,0,0,8,0,4,4,0,0,0-1.48-3.07.88.88,0,0,0,0-.17,3.94,3.94,0,0,1,4-3.92h5.55A3.94,3.94,0,0,1,34,15v4.77H32.63V13.82a1,1,0,0,0-2,0v5.95H26a1,1,0,1,0,0,2h9a1,1,0,0,0,1-1V15a5.94,5.94,0,0,0-6-5.92M18,20.22a2,2,0,1,1,2-2,2,2,0,0,1-2,2"
+                      transform="translate(0 0)"/>
+                <path class="cls-3" d="M8.73,8a4,4,0,1,0-4-4,4,4,0,0,0,4,4m0-6a2,2,0,1,1-2,2,2,2,0,0,1,2-2"
+                      transform="translate(0 0)"/>
+            </g>
+        </g>
+    </g>
+</svg>

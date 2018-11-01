@@ -1,0 +1,42 @@
+.frame-wrap iframe {
+    height: 768px;
+}
+
+.frame-wrap iframe.height-max {
+    height: 2162px;
+}
+
+h1.section-header {
+    margin-bottom: 0;
+}
+
+h2.section-header {
+    margin-bottom: 22px;
+}
+
+.about-block {
+    padding: 45px 40px 45px;
+}
+
+.read-more-block-sz .read-more-wrap {
+    margin-bottom: 2px;
+}
+
+.section-atlas {
+    padding: 55px 0 85px;
+}
+
+.section-bg-head-lg {
+    height: 105px;
+}
+
+
+/*newslist*/
+section.newslist {
+    height: auto;
+    min-height: 320px;
+}
+
+div.card-news {
+    width: 100%;
+}

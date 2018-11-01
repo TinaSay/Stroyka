@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.02 36.02">
+    <linearGradient id="linear-gradient">
+        <stop offset="0%" stop-color="#F6C46A"/>
+        <stop offset="50%" stop-color="#FF9C23"/>
+        <stop offset="100%" stop-color="#FF8209"/>
+    </linearGradient>
+    <defs>
+        <style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style>
+        <clipPath id="clip-path" transform="translate(0 0)">
+            <rect class="cls-1" width="36.02" height="36.02"/>
+        </clipPath>
+    </defs>
+    <g id="Слой_2" data-name="Слой 2">
+        <g id="Слой_1-2" data-name="Слой 1">
+            <g class="cls-2" fill="url(#linear-gradient)">
+                <path class="cls-3"
+                      d="M31,14.74h-8V10.55a1,1,0,0,0-1-1h-1V5.45a1,1,0,0,0-1-1h-9.4L8.68.57A1,1,0,0,0,7.78,0H2.85a1,1,0,0,0-1,1l.38,8.5H1a1,1,0,0,0-1,1V31a1,1,0,0,0,1,1H3.33a4.21,4.21,0,0,0,8.41,0H24.27a4.21,4.21,0,0,0,8.41,0H35a1,1,0,0,0,1-1V20.72c0-3.29-2.26-6-5-6m3,6v1.51H30.38V16.74H31c1.64,0,3,1.82,3,4m-7.42-4h1.79v5.48H26.59ZM18.91,6.45v3.1h-6l-1.46-3.1ZM3.9,2H7.15l3.56,7.55H4.23ZM2,11.55H20.94V30H11.36a4.21,4.21,0,0,0-7.65,0H2ZM7.54,34a2.23,2.23,0,1,1,2.23-2.23A2.23,2.23,0,0,1,7.54,34m20.94,0a2.23,2.23,0,1,1,2.23-2.23A2.23,2.23,0,0,1,28.48,34m3.82-4a4.21,4.21,0,0,0-7.65,0H22.94V16.74h1.65v6.48a1,1,0,0,0,1,1H34V30Z"
+                      transform="translate(0 0)"/>
+            </g>
+        </g>
+    </g>
+</svg>
